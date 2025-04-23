@@ -29,13 +29,7 @@ This is the **React-based frontend** for the [HR Management System](https://gith
 - **Bootstrap / Custom CSS**
 - **Context API or Redux** *(based on your setup)*
 
-## 📁 Project Structure
 
-git clone https://github.com/Omkar8777/Hr-management-system-frontend.git
-cd Hr-management-system-frontend
-
-
-### Install Dependencies
 
 git clone https://github.com/Omkar8777/Hr-management-system-frontend.git
 cd Hr-management-system-frontend
